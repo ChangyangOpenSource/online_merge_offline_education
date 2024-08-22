@@ -26,7 +26,7 @@
 本系统采用前后端分离模式开发和运行。前端使用vue框架并基于 Ant Design Of Vue 组件库进行开发。后端使用 springboot + redis + mysql 微服务方式进行搭建，可单机运行也可集群运行。 
 
 ### 功能架构
- ![](./images/多分校系统.png)
+ ![](./images/功能图.png)
 
 #### 环境配置要求：
 
